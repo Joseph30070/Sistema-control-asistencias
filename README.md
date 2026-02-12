@@ -26,6 +26,10 @@ Sistema desarrollado en Python para la gestión de una academia, que permite:
 - `registrar_practicantes.py` → Registro de practicantes
 - `asistencia_alumnos.py` → Control de asistencias
 - `control_asistencias.db` → Base de datos SQLite
+- `asistencia_practicantes.py` → control de asistencias de practicantes
+- `login.py` → Login inicial
+- `cuotas_alumnos.py` → Control de cuotas de los alumnos
+- `info_alumnos.py` → Informacion de los datos de todos los alumnos
 
 ---
 
